@@ -1,6 +1,6 @@
-# FocusForge Privacy Policy Hosting
+# FlowForge Privacy Policy Hosting
 
-This repository contains the privacy policy and terms of service for the FocusForge mobile app.
+This repository contains the privacy policy and terms of service for the FlowForge mobile app.
 
 ## Files
 - `index.html` - Privacy Policy
@@ -22,7 +22,7 @@ gh repo view focusforge-privacy --web
 # 1. Initialize git repo
 git init
 git add .
-git commit -m "Initial commit: Privacy policy and terms for FocusForge"
+git commit -m "Initial commit: Privacy policy and terms for FlowForge"
 
 # 2. Create GitHub repo
 # Go to https://github.com/new
@@ -77,9 +77,9 @@ Also add terms URL:
 4. Use that URL in app.json
 
 ## Files Ready for Deployment
-- ✅ Privacy Policy (index.html) - brand updated to "FocusForge"
+- ✅ Privacy Policy (index.html) - brand updated to "FlowForge"
 - ✅ Terms of Service (terms.html) - created
 - ✅ Mobile-responsive styling
 - ✅ All links formatted correctly
 
-**Note:** Email addresses in these files use `@focusspark.app` which matches the bundle ID. These can be updated to `@focusforge.app` if you purchase that domain.
+**Note:** Email addresses use `@flowforge.app` domain. Bundle ID is `com.flowforge.app`. All configured and ready for submission.
